@@ -13,6 +13,10 @@
 
 - 📫 How to reach me **madisettysaisreeharsha@gmail.com**
 
+- 🤗 Love to make new connections 👫🐥
+
+- 👯 Open to collaborate on open-source Projects 🤗
+
 - ⚡ Fun fact **I think I'm Funny**
 
 <h3 align="left">Connect with me:</h3>
