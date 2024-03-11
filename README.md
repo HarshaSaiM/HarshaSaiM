@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://media.tenor.com/7LAB1WbMURAAAAAd/website.gif)]()
 <h1 align="center">Hi 👋, I'm Harsha</h1>
 <h3 align="center">Aspiring Data Analyst | Analyzing Complex Data for Strategic Insights</h3>
-<img align="right" alt="Analysis" width="400" src="https://mcodify.com/wp-content/uploads/2021/01/analysis.gif">
+<img align="right" alt="Analysis" width="400" src="https://media.tenor.com/7LAB1WbMURAAAAAd/website.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshasaim&label=Profile%20views&color=0e75b6&style=flat" alt="harshasaim" /> </p>
 
@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/madisettyharsha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="madisettyharsha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sai-sree-harsha-madisetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-sree-harsha-madisetty" height="30" width="40" /></a>
-<a href="https://instagram.com/name_is_harsha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="name_is_harsha" height="30" width="40" /></a>
+<a href="https://instagram.com/name_is__harsha_ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="name_is_harsha" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harsdharsha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harsdharsha" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harshasaim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshasaim" height="30" width="40" /></a>
 </p>
