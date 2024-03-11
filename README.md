@@ -1,7 +1,7 @@
-[![MasterHead](https://media.tenor.com/7LAB1WbMURAAAAAd/website.gif)]()
+[![MasterHead](https://github.com/HarshaSaiM/HarshaSaiM/blob/328ad37a4d7f1844d61aa355d22083fc311acdc2/Harsha%20Cover%20Page.png)]()
 <h1 align="center">Hi 👋, I'm Harsha</h1>
 <h3 align="center">Aspiring Data Analyst | Analyzing Complex Data for Strategic Insights</h3>
-<img align="right" alt="Analysis" width="400" src="https://media.tenor.com/7LAB1WbMURAAAAAd/website.gif">
+<img align="right" alt="Analysis" width="400" src="https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshasaim&label=Profile%20views&color=0e75b6&style=flat" alt="harshasaim" /> </p>
 
